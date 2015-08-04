@@ -10,6 +10,9 @@ public class MainActivity extends ActionBarActivity {
 
     //quiero volver a comentar
     String nuevo="";
+
+    //mi tercer commit
+    int i=0;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
